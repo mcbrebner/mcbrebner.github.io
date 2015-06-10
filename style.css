@@ -1,5 +1,8 @@
 body {
-	background-color: blue;
-	color:#ffffff;
+	background-color: #808080;
+	color: #44ffa8;
 	font-size:18px;
+}
+h1 {
+	color: #ff69b4;
 }
