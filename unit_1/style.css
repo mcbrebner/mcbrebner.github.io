@@ -1,8 +1,10 @@
 body {
-	background-color: #fbfbff;
+	background-color: #f1f1f1;
 	color: #0f0f0f;
 	font-size:18px;
 	font-family: Verdana;
+	margin: 5px;
+	padding: 5px;
 }
 h1 {
 	color: #0a0a0a;
@@ -25,4 +27,10 @@ p {
 	text-indent: 30px;
 	margin-left: 10%;
 	margin-right: 10%;
+}
+.text_block_1 p {
+font-family: cursive;
+}
+.text_block_3 p {
+font-family: cursive;
 }
