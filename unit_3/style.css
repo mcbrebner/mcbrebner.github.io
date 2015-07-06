@@ -1,3 +1,6 @@
+@import url(http://fonts.googleapis.com/css?family=Exo+2:400,900,400italic);
+@import url(http://fonts.googleapis.com/css?family=Alfa+Slab+One);
+
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background: url("http://i.imgur.com/wB1Wp6L.jpg");
@@ -6,7 +9,8 @@ body {
 	background-repeat:no-repeat;
 	color: #0f0f0f;
 	font-size:18px;
-	font-family: Verdana, sans-serif;
+	font-family: 'Exo 2', sans-serif, Verdana, sans-serif;
+	line-height: 1.618;
 }
 #slogan {
 	text-align: center;
@@ -35,6 +39,10 @@ section#les_filles {
 h1 {
 	color: #0a0a0a;
 	font-size: 2em;
+	font-family: 'Alfa Slab One', cursive;
+	text-transform: uppercase;
+	line-height: 1.5em;
+	letter-spacing: -0.05em;
 	text-shadow: 2px 2px 5px #909090;
 	background-color: rgba(198,168,156,0.5); 
 }
@@ -44,6 +52,7 @@ h2 {
 	text-shadow: 1px 1px 5px #909090;
 	margin-top: 4%;
 	font-size: 3em;
+	font-family: 'Alfa Slab One', cursive;
 }
 h3 {
 	text-align: center;
@@ -64,7 +73,7 @@ h3 {
 	margin-left: 4.5em;
 }
 .text_block {
-	width: 25%;
+	width: 20%;
 	height: 100%;
 	border: 0.5em solid black;
 	margin: 1em;
@@ -77,9 +86,9 @@ h3 {
 	margin-right: auto;
 }
 .picture h2 {
-	margin: 0;
+	margin: auto;
 	text-align: left;
-	font-size: 1.5em;
+	font-size: 1.8em;
 }
 #first_grouping {
 	background-color: rgba(177,138,94,0.5) 
