@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-
+* { margin:0; padding:0; box-sizing:border-box; }
 #homepage {
-	background-color: #ccfcfc;
+	
 }
 
 nav {
@@ -47,9 +47,8 @@ nav a {
 }
 
 #hero {
-/*	border: solid #000 1px;
-*/	margin-left: 101px;
-	float: left;
+	background-color: #ccfcfc;
+	margin-left: 101px;
 }
 
 #hero img {
@@ -70,9 +69,10 @@ nav a {
 #contactcolumn {
 	border: solid #000 1px;
 	position: fixed;
+	left:0;
+	top:0;
+	bottom:0;
 	width: 100px;
-	height: 100%;
-	float: right;
 	background-color: #000;
 	text-decoration: none;
 }
@@ -82,10 +82,10 @@ nav a {
 }
 
 .clearfix:after {
-visibility: hidden;
-display: block;
-font-size: 0;
-content: " ";
-clear: both;
-height: 0;
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }
