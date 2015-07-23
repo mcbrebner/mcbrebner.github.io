@@ -1,0 +1,91 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+#homepage {
+	background-color: #ccfcfc;
+}
+
+nav {
+	display: block;
+	background-color: #ccfcfc;
+	border: solid 1px #000;
+	float: right;
+	padding: 1em;
+	margin: 2em;
+}
+
+nav a {
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;	
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 2em;
+	color: #000;
+}
+
+/*nav a:hover {
+	font-size: 2.5em;
+}*/
+
+#contactcolumn h1 {
+	font-family: 'Montserrat', sans-serif;	
+	text-transform: uppercase;
+	color: #fff;
+	margin: 10px;
+	font-size: 0.75em;
+	text-align: center;
+}
+
+#contactcolumn img {
+	display: block;
+	width: 50px;
+	padding: 10px 10px 10px 10px;
+	margin: 20px 15px;
+}
+
+#contactcolumn img:hover {
+	padding: 10px 10px 10px 15px;
+}
+
+#hero {
+/*	border: solid #000 1px;
+*/	margin-left: 101px;
+	float: left;
+}
+
+#hero img {
+/*	border: solid #000 1px;
+*/	display: block;
+	float: left;
+	width: 320px;
+	margin: 0 400px 0 400px;
+	padding: 15px 0 150px 0;
+}
+
+/*h1 {
+	text-transform: uppercase;
+	border: solid #000 1px;
+	width: 7%;
+}*/
+
+#contactcolumn {
+	border: solid #000 1px;
+	position: fixed;
+	width: 100px;
+	height: 100%;
+	float: right;
+	background-color: #000;
+	text-decoration: none;
+}
+
+#contactcolumn a {
+	display: block;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+font-size: 0;
+content: " ";
+clear: both;
+height: 0;
+}
