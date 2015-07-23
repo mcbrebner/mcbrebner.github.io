@@ -1,12 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 * { margin:0; padding:0; box-sizing:border-box; }
-#homepage {
+body {
 	
 }
-
 nav {
 	display: block;
-	background-color: #ccfcfc;
 	border: solid 1px #000;
 	float: right;
 	padding: 1em;
@@ -21,11 +19,17 @@ nav a {
 	font-size: 2em;
 	color: #000;
 }
-
+#contactcolumn nav {
+	margin:0;
+}
 /*nav a:hover {
 	font-size: 2.5em;
 }*/
-
+/*h1 {
+	text-transform: uppercase;
+	border: solid #000 1px;
+	width: 7%;
+}*/
 #contactcolumn h1 {
 	font-family: 'Montserrat', sans-serif;	
 	text-transform: uppercase;
@@ -59,12 +63,6 @@ nav a {
 	margin: 0 400px 0 400px;
 	padding: 15px 0 150px 0;
 }
-
-/*h1 {
-	text-transform: uppercase;
-	border: solid #000 1px;
-	width: 7%;
-}*/
 
 #contactcolumn {
 	border: solid #000 1px;
