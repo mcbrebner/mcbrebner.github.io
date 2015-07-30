@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50mm"
+   height="90mm"
+   viewBox="0 0 177.16547 318.89764"
+   id="svg4141"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mobile mockup.svg">
+  <defs
+     id="defs4143" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.08"
+     inkscape:cx="152.4199"
+     inkscape:cy="181.52971"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4695" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4146">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-733.4644)">
+    <rect
+       style="opacity:0.99299999;fill:#af55eb;fill-opacity:0.19879521;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4689"
+       width="176.92307"
+       height="62.5"
+       x="0.48076922"
+       y="733.61194"
+       rx="7.67246e-006"
+       ry="7.67246e-006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.557688"
+       y="760.05426"
+       id="text4691"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4693"
+         x="26.557688"
+         y="760.05426">title and description</tspan></text>
+    <rect
+       style="opacity:0.99299999;fill:#af55eb;fill-opacity:0.19879521;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4697"
+       width="60"
+       height="60"
+       x="55"
+       y="812.36194"
+       rx="7.67246e-006"
+       ry="7.67246e-006" />
+    <rect
+       style="opacity:0.99299999;fill:#af55eb;fill-opacity:0.19879521;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4697-3"
+       width="60.000034"
+       height="60.000034"
+       x="55"
+       y="882.362"
+       rx="7.6724646e-006"
+       ry="7.6724646e-006" />
+    <rect
+       style="opacity:0.99299999;fill:#af55eb;fill-opacity:0.19879521;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4697-5"
+       width="60.000034"
+       height="60.000034"
+       x="55.038456"
+       y="952.362"
+       rx="7.6724646e-006"
+       ry="7.6724646e-006" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55,812.36195 c 60,60 60,60 60,60"
+       id="path4722"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115,812.36195 c -60,60 -60,60 -60,60"
+       id="path4724"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55,882.36195 c 60,60 60,60 60,60"
+       id="path4726"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115,882.36195 c -60,60 -60,60 -60,60"
+       id="path4728"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55,952.36195 c 60,59.99995 60,59.99995 60,59.99995"
+       id="path4730"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 115,952.36195 C 55,1012.3619 55,1012.3619 55,1012.3619"
+       id="path4732"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:0.99299999;fill:#af55eb;fill-opacity:0.19879521;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path8666"
+       cx="85.5"
+       cy="1034.8619"
+       r="7.5" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80,1032.362 c 5,10 5,10 5,10"
+       id="path8668"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.000001,1032.362 c -5,10 -5,10 -5,10"
+       id="path8670"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8672"
+       style="font-style:normal;font-weight:normal;font-size:7.50000429px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,733.46431)"><flowRegion
+         id="flowRegion8674"><rect
+           id="rect8676"
+           width="45.000031"
+           height="200.00015"
+           x="5"
+           y="78.897644"
+           style="font-size:7.50000429px" /></flowRegion><flowPara
+         id="flowPara8678">profile pix are stacked instead of row - can navigate to their gallery by tapping anywhere on the pic </flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160,742.36195 c 10,0 10,0 10,0"
+       id="path8680"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160,747.36195 c 10,0 10,0 10,0"
+       id="path8682"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160,752.36195 c 10,0 10,0 10,0"
+       id="path8684"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8686"
+       style="font-style:normal;font-weight:normal;font-size:10.00000572px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,733.46431)"><flowRegion
+         id="flowRegion8688"><rect
+           id="rect8690"
+           width="50.000015"
+           height="165.00009"
+           x="120.00007"
+           y="153.89774"
+           style="font-size:10.00000572px"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara8692">can also scroll to next section by tapping arrow (or just scrolling) or view menu in burger</flowPara></flowRoot>  </g>
+</svg>
