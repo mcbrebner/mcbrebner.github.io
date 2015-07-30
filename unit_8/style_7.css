@@ -1,0 +1,206 @@
+@import url(http://fonts.googleapis.com/css?family=Exo+2:400,900,400italic);
+@import url(http://fonts.googleapis.com/css?family=Alfa+Slab+One);
+@import url(http://fonts.googleapis.com/css?family=Crafty+Girls);
+@import url(http://fonts.googleapis.com/css?family=Leckerli+One);
+
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	background: url("http://i.imgur.com/wB1Wp6L.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	color: #0f0f0f;
+	font-size:18px;
+	font-family: 'Crafty Girls', cursive;
+	line-height: 1.618;
+}
+
+/*#homepage {
+	height: 100vh;
+}
+*/
+#header {
+	text-align: center;
+	background-color: rgba(90,90,90,0.6);
+	padding: 2em;
+}
+#header p {
+	color: #dfddd1;
+	width: 100%;
+	padding: 0 15em 0;
+/*	margin-left: auto;
+	margin-right: auto;*/
+	font-style: italic;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	border-bottom: 1px solid;
+	padding: 0 0 2px;
+}
+
+section#les_filles {
+	background: rgba(198,168,156,0.5);
+	position: center;
+	padding: 20px 100px 20px 100px;
+/*	margin: 0 10% 0 10%;*/
+}
+
+#profilepictures {
+	padding: 1em;
+}
+
+#larinette {
+	border: 1px solid rgb(150,150,150);
+	display: block;
+	float: left;
+	margin: 1em;
+	padding: 1em;
+	width: 30%;
+	background-color: rgba(250,250,250,0.5);
+}
+#floony {
+	border: 1px solid rgb(150,150,150);
+	display: block;
+	float: left;
+	margin: 1em;
+	padding: 1em;
+	width: 30%;
+	background-color: rgba(250,250,250,0.5);
+}
+#myrt {
+	border: 1px solid rgb(150,150,150);
+	display: block;
+	float: left;
+	margin: 1em;
+	padding: 1em;
+	width: 30%;	
+	background-color: rgba(250,250,250,0.5);
+}
+
+#larinette img {
+/*	display: block;
+	float: left;*/
+	padding: 10px;
+}
+#floony img {
+/*	display: block;
+	float: left;*/
+	padding: 10px;
+}
+#myrt img {
+/*	display: block;
+	float: left;*/
+	padding: 10px;
+}
+
+#larinette p {
+	padding: 5px;
+	display: block;
+	text-align: center;
+}
+#floony p {
+	padding: 5px;
+	display: block;
+	text-align: center;
+}
+#myrt p {
+	padding: 5px;
+	display: block;
+	text-align: center;
+}
+
+#interactivemap {
+	background-color: rgba(185,211,226,0.5);
+	margin: 0 auto 0 auto;
+	padding: 3em;
+}
+
+/*#gallery_wrapper {
+	margin: 0 15%;
+}*/
+
+#floony_gallery_slide {
+	background-color: rgba(140,76,69,0.9);
+	padding: 5% 15% 5% 15%; 
+}
+
+#control-container {
+	padding: 5px 10px 5px 10px;
+	margin-right: 40%;
+	margin-left: 40%;
+}
+
+
+#larinette_gallery_slide {
+	background-color: rgba(198,168,156,0.9);
+	padding: 5% 15% 5% 15%;
+}
+
+#myrt_gallery_slide {
+	background-color: rgba(185,211,226,0.9);
+	padding: 5% 15% 5% 15%;
+}
+
+#control-container a {
+	display: block;
+	float: right;
+	padding: 2px;
+	border: 1px solid #000;
+	border-radius: 25px;
+	margin-right: 18.5px;
+}
+
+h1 {
+	color: #0a0a0a;
+	font-size: 2em;
+/*	font-family: 'Alfa Slab One', cursive;*/
+	font-family: 'Exo 2', sans-serif, Verdana, sans-serif;
+	text-transform: uppercase;
+	line-height: 1.5em;
+	letter-spacing: -0.04em;
+	text-shadow: 2px 2px 5px #909090;
+}
+h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1em;
+/*	font-family: 'Alfa Slab One', cursive;*/
+	font-family: 'Exo 2', sans-serif, Verdana, sans-serif;
+}
+h3 {
+	text-align: center;
+	font-style: italic;
+	font-size: 1em;
+	font-family: 'Exo 2', sans-serif, Verdana, sans-serif;
+}
+.text_block p {
+	font-family: 'Leckerli One', cursive;
+	color: #0f0f0f;
+	text-indent: 30px;
+	font-size: 1em;
+}
+
+.text_block {
+	height: 100%;
+	border: 1px solid #000;
+	margin: 1em;
+	padding: 1em;
+	background-color: rgba(90,90,90,0.5);
+}
+
+#blogposts {
+	background-image: url("http://i.imgur.com/m1Bh8tv.jpg?1");
+	background-size: cover;
+	padding: 1em;
+}
+
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
