@@ -44,24 +44,27 @@ a:hover {
 section#les_filles {
 	background: rgba(198,168,156,0.5);
 	position: center;
-	padding: 20px 100px 20px 100px;
+	padding: 20px 0;
 /*	margin: 0 10% 0 10%;*/
 }
 
 #profilepictures {
 	padding: 1em;
+	width:80%;
+	margin:auto;
+/*	background-color: yellow;*/
 }
 
-#larinette {
+.pics {
 	border: 1px solid rgb(150,150,150);
 	display: block;
 	float: left;
-	margin: 1em;
-	padding: 1em;
-	width: 30%;
+	margin: 1%;
+	padding: 1%;
+	width: 31.33%;
 	background-color: rgba(250,250,250,0.5);
 }
-#floony {
+/*#floony {
 	border: 1px solid rgb(150,150,150);
 	display: block;
 	float: left;
@@ -78,39 +81,22 @@ section#les_filles {
 	padding: 1em;
 	width: 30%;	
 	background-color: rgba(250,250,250,0.5);
+}*/
+
+.pics img {
+/*	display: block;
+	float: left;*/
+	padding: 2%;
+	width:100%;
 }
 
-#larinette img {
-/*	display: block;
-	float: left;*/
-	padding: 10px;
-}
-#floony img {
-/*	display: block;
-	float: left;*/
-	padding: 10px;
-}
-#myrt img {
-/*	display: block;
-	float: left;*/
-	padding: 10px;
+
+.pics p {
+	padding: 5px;
+	display: block;
+	text-align: center;
 }
 
-#larinette p {
-	padding: 5px;
-	display: block;
-	text-align: center;
-}
-#floony p {
-	padding: 5px;
-	display: block;
-	text-align: center;
-}
-#myrt p {
-	padding: 5px;
-	display: block;
-	text-align: center;
-}
 
 #interactivemap {
 	background-color: rgba(185,211,226,0.5);
@@ -203,4 +189,23 @@ h3 {
 	display: block; 
 	height: 0; 
 	clear: both;
+}
+
+@media screen and (max-width: 900px){
+	#profilepictures {
+		width:100%;
+	}
+}
+
+@media screen and (max-width: 671px){
+
+	#profilepictures {
+		width:60%;margin:auto;
+	}
+	.pics {
+		float: none;
+		margin: 1%;
+		padding: 1%;
+		width: 100%;
+	}
 }
