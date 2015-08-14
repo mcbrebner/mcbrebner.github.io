@@ -14,58 +14,20 @@ body {
 	background-repeat:no-repeat;
 	color: #0f0f0f;
 	font-size:18px;
-	font-family: 'Exo 2', sans-serif, Verdana, sans-serif;
+	font-family: 'Crafty Girls', cursive;
 	line-height: 1.618;
 }
 
-#navbar {
-	width: 100%;
-	margin: auto;
-/*	padding: 5%;
-*/	background-color: #fff;
-}
-
-#naviconwrapper1 {
-	display: inline-block;
-	float: left;
-	padding: 1% 5% 1% 0%;
-	width: 50%;
-	margin: auto;
-}
-
-#naviconwrapper2 {
-	display: inline-block;
-	float: right;
-	padding: 1% 0% 1% 5%;
-	width: 50%;
-	margin: auto;
-}
-
-#naviconwrapper1 img {
-	display: inline-block;
-	float: left;
-	width: 20%;
-	padding: 5%;
-}
-
-#naviconwrapper2 img {
-	display: inline-block;
-	float: right;
-	width: 20%;
-	padding: 5%;
-}
 
 #header {
 	text-align: center;
 	background-color: rgba(90,90,90,0.6);
-	padding: 2em 2em 15em;
+	padding: 2em;
 }
 #header p {
-	font-family: 'Leckerli One', cursive;
-	font-size: 1.5em;
 	color: #dfddd1;
 	width: 100%;
-	padding: 2em 12em 0;
+	padding: 0 15em 0;
 }
 a {
 	text-decoration: none;
@@ -73,6 +35,7 @@ a {
 }
 a:hover {
 	color: #34a2a5;
+	text-decoration: blink;
 	border-bottom: 1px solid;
 	padding: 0 0 2px;
 }
@@ -86,8 +49,8 @@ section#les_filles {
 
 #profilepictures {
 	padding: 1em;
-	width: 80%;
-	margin: auto;
+	width:80%;
+	margin:auto;
 }
 
 .pics {
@@ -119,11 +82,13 @@ section#les_filles {
 	border: 1px solid #000;
 	position: center;
 }
+
 #footer a {
 	display: block;
 	float: left;
 	width: 33.33%;
 }
+
 .nav_icon {
 	width: 100%;
 }*/
@@ -160,6 +125,13 @@ section#les_filles {
 	padding: 5% 15% 5% 15%; 
 }
 
+#control-container {
+	padding: 5px 10px 5px 10px;
+	margin-right: 40%;
+	margin-left: 40%;
+}
+
+
 #larinette_gallery_slide {
 	background-color: rgba(198,168,156,0.5);
 	padding: 5% 15% 5% 15%;
@@ -168,30 +140,6 @@ section#les_filles {
 #myrt_gallery_slide {
 	background-color: rgba(185,211,226,0.5);
 	padding: 5% 15% 5% 15%;
-}
-
-.gallerytitlestyle {
-	padding: 1%;
-}
-
-.gallerytitlestyle h2 {
-	display: inline-block;
-	float: left;
-}
-
-.gallerytitlestyle ul {
-	list-style-type: none;
-}
-
-.gallerytitlestyle img {
-	display: inline-block;
-	float: left;
-}
-
-#control-container {
-	padding: 5px 10px 5px 10px;
-	margin-right: 40%;
-	margin-left: 40%;
 }
 
 #control-container a {
@@ -205,7 +153,6 @@ section#les_filles {
 
 #control-container a:hover {
 	background-color: rgba(250,250,250,0.2);
-	border: 1px solid #34a2a5;
 }
 
 .columnstyle {
@@ -219,13 +166,12 @@ section#les_filles {
 
 h1 {
 	color: #fff;
-	font-size: 3.5em;
+	font-size: 3em;
 /*	font-family: 'Alfa Slab One', cursive;*/
 	font-family: 'Exo 2', sans-serif, Verdana, sans-serif;
 	text-transform: uppercase;
 	line-height: 1.5em;
 	letter-spacing: -0.04em;
-	padding: 0.5em 0 1em;
 }
 
 h2 {
