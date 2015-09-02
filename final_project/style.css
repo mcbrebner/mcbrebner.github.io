@@ -73,13 +73,6 @@ body {
 	padding: 8% 35% 5% 35%;
 }
 
-#homepage h2 {
-	font-size: 3em;
-	text-align: center;
-	color: #fff;
-	background-color: rgba(0,0,0,0.2);
-	padding: 10% 48% 15% 48%;
-}
 
 #menu {
 	background-color: #fff;
@@ -263,8 +256,6 @@ body {
 	text-align: center;
 	color: #eee;
 }
-
-#about
 
 #wordmark_a {
 	width: 25%;
@@ -451,9 +442,11 @@ body {
 @media screen and (max-width: 720px){
 	.menustyle {
 		width: 100%;
+		text-align: center;
 		}
 	.placesstyle {
 		width: 100%;
+		text-align: center;
 		}
 	#aboutcolumn1 {
 		width: 100%;
