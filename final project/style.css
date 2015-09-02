@@ -1,0 +1,464 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Leckerli+One);
+
+
+* { margin:0; padding:0; box-sizing:border-box; 	
+	transition: all 250ms cubic-bezier(0.420, 0.000, 0.580, 1.000); 
+    transition-timing-function: cubic-bezier(0.420, 0.000, 0.580, 1.000);
+}
+
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+}
+
+#homepage {
+	background: url("http://i.imgur.com/RzhDgIY.png");
+	background-size: 100%;
+	background-repeat:no-repeat;
+	position: top;
+}
+
+#wordmark_h {
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+#wordmark_h a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 2em;
+	padding: 0.5em;
+	font-family: 'Leckerli One', cursive;
+	color: #fff;
+}
+
+#nav1 {
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+#nav1 a {
+	float: right;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.5em 1em;
+	font-size: 1.5em;
+	color: #fff;
+}
+
+#nav2 {
+	width: 50%;
+	display: inline-block;
+	float: left;
+}
+
+#nav2 a {
+	float: left;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.5em 1em;
+	font-size: 1.5em;
+	color: #fff;
+}
+
+#homepage h1 {
+	font-size: 3em;
+	text-transform: uppercase;
+	text-align: center;
+	color: #fff;
+	background-color: rgba(0,0,0,0.2);
+	padding: 8% 35% 5% 35%;
+}
+
+#homepage h2 {
+	font-size: 3em;
+	text-align: center;
+	color: #fff;
+	background-color: rgba(0,0,0,0.2);
+	padding: 10% 48% 15% 48%;
+}
+
+#menu {
+	background-color: #fff;
+}
+
+#wordmark_m {
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+#wordmark_m a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 2em;
+	padding: 0.5em;
+	font-family: 'Leckerli One', cursive;
+	color: #222;
+}
+
+#nav3 {
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+#nav3 a {
+	float: right;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.5em 1em;
+	font-size: 1.5em;
+	color: #222;
+}
+
+#nav4 {
+	width: 50%;
+	display: inline-block;
+	float: right;
+}
+
+#nav4 a {
+	float: left;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.5em 1em;
+	font-size: 1.5em;
+	color: #222;
+}
+
+#menuwrap {
+	padding: 10% 0 1%;
+	width: 100%;
+}
+
+#menuwrap h1 {
+	width: 150px;
+	margin: auto;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2.5em;
+	color: #222;
+	border: 3px solid #222;
+}
+
+.menustyle {
+	width: 25%;
+	display: block;
+	float: left;
+	padding: 3em 1em 9em 3em;
+}
+
+.menustyle h3 {
+	text-transform: uppercase;
+	padding: 3em 0 0.5em 0;
+}
+
+.menustyle ul {
+	list-style-type: none;
+}
+
+#menu p {
+	text-align: center;
+}
+
+#places {
+	background-color: #111;
+}
+
+#wordmark_p {
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+#wordmark_p a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 2em;
+	padding: 0.5em;
+	font-family: 'Leckerli One', cursive;
+	color: #eee;
+}
+
+#nav5 {
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+#nav5 a {
+	float: right;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.5em 1em;
+	font-size: 1.5em;
+	color: #eee;
+}
+
+#nav6 {
+	width: 50%;
+	display: inline-block;
+	float: right;
+}
+
+#nav6 a {
+	float: left;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.5em 1em;
+	font-size: 1.5em;
+	color: #eee;
+}
+
+#placeswrap {
+	padding: 10% 0 1%;
+	width: 100%;
+}
+
+#placeswrap h1 {
+	width: 185px;
+	margin: auto;
+	text-align: center;
+	text-transform: uppercase;
+	color: #eee;
+	border: 3px solid #eee;
+	padding: 1px;
+	font-size: 2.5em;
+}
+
+.placesstyle {
+	width: 33.33%;
+	display: block;
+	float: left;
+	padding: 2em 6em 6em 8em;
+}
+
+.placesstyle h3 {
+	text-transform: uppercase;
+	padding: 5em 0 0.5em 0;
+	color: #eee;
+}
+
+.placesstyle ul {
+	list-style-type: none;
+	color: #eee;
+}
+
+.placesstyle a {
+	display: block;
+	text-decoration: none;
+	color: #eee;
+	padding: 1em 0 0 0;
+}
+
+.placesstyle a:hover {
+	text-transform: uppercase;
+}
+
+#places p {
+	text-align: center;
+	color: #eee;
+}
+
+#about
+
+#wordmark_a {
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+#wordmark_a a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 2em;
+	padding: 0.5em;
+	font-family: 'Leckerli One', cursive;
+	color: #000;
+}
+
+#nav7 {
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+#nav7 a {
+	float: right;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.5em 1em;
+	font-size: 1.5em;
+	color: #000;
+}
+
+#nav8 {
+	width: 50%;
+	display: inline-block;
+	float: right;
+}
+
+#nav8 a {
+	float: left;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.5em 1em;
+	font-size: 1.5em;
+	color: #000;
+}
+
+#aboutcolumn1 {
+	display: block;
+	float: left;
+	width: 50%;
+}
+
+#aboutcolumn2 {
+	display: block;
+	float: right;
+	width: 50%;
+}
+
+#topleftbox {
+	background: url("http://i.imgur.com/4gOFCoc.jpg");
+/*	border: 1px solid #000;
+*/}
+
+#aboutwrap {
+	width: 100%;
+  	padding: 40% 0 45%;
+}
+
+#aboutwrap h1 {
+	width: 170px;
+	margin: auto;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2.5em;
+	border: 3px solid #000;
+	padding: 1px;
+}
+
+#bottomleftbox {
+	padding: 25% 20% 33% 20%;
+/*	border: 1px solid #000;
+*/}
+
+#toprightbox {
+/*	border: 1px solid #000;
+*/}
+
+#toprightbox h1 {
+	display: block;
+	clear: both;
+	padding: 5% 25% 1%;
+	text-align: center;
+}
+
+#toprightbox ul {
+	width: 100%;
+	margin: auto;
+	padding: 5% 10% 19%;
+	list-style: none;
+}
+
+#toprightbox ul h2 {
+	text-align: center;
+	padding: 5px 0 5px 3px;
+}
+
+#toprightbox ul img {
+	margin: 5% 45% 0 45%;
+	padding: 0 5px 0;
+}
+
+#bottomrightbox {
+/*	border: 1px solid #000;
+*/}
+
+#bottomrightbox img {
+	display: block;
+	float: right;
+	width: 100%;
+}
+
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
+
+@media screen and (max-width: 1200px){
+	#wordmark_h {
+		width: 100%;
+		display: inline-block;
+		float: none;
+		background-color: rgba(0,0,0,0.2);
+		}
+	#wordmark_h h3 {
+		text-align: center;
+		}
+	#nav1 {
+		width: 50%;
+		}
+	#wordmark_m {
+		width: 100%;
+		display: inline-block;
+		float: none;
+		}
+	#wordmark_m h3 {
+		text-align: center;
+		}
+	#nav3 {
+		width: 50%;
+		}
+	.menustyle {
+		padding: 1em 1em 3em 1em;
+		}
+	#wordmark_p {
+		width: 100%;
+		display: inline-block;
+		float: none;
+		}
+	#wordmark_p h3 {
+		text-align: center;
+		}
+	#nav5 {
+		width: 50%;
+		}
+	.placesstyle {
+		padding: 2em 2em 6em 3em;
+		}
+	#wordmark_a {
+		width: 100%;
+		display: inline-block;
+		float: none;
+		}
+	#wordmark_a h3 {
+		text-align: center;
+		}
+	#nav7 {
+		width: 50%;
+		}
+	}
+
+@media screen and (max-width: 720px){
+	.menustyle {
+		width: 100%;
+		}
+	.placesstyle {
+		width: 100%;
+		}
+	#aboutcolumn1 {
+		width: 100%;
+		}
+	#aboutcolumn2 {
+		width: 100%;
+		}
+	}
